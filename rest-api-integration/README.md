@@ -1,4 +1,3 @@
-```markdown
 # REST API Integration with n8n
 
 A practical n8n project created to understand how automation workflows communicate with external REST APIs.
